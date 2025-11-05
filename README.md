@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Framework de Detección Automatizada de Vulnerabilidades en Android
 
 ## Descripción
@@ -165,3 +166,6 @@ Universidad Nacional de San Agustín de Arequipa (UNSA)
 ## Referencias
 
 Ver capítulo de Marco Teórico en la tesis para referencias completas.
+=======
+# DeteccionVulnerabilidades
+>>>>>>> 31ca53ab863cac0848164aabf97789e6ef8c97f4
