@@ -1,0 +1,88 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Testing
+.pytest_cache/
+.coverage
+.tox/
+htmlcov/
+*.cover
+
+# Logs
+*.log
+logs/
+
+# Output files
+output/
+decompiled/
+*.apk.decompiled/
+
+# Model files (large)
+models/*.pt
+models/*.pth
+models/*.bin
+models/*.h5
+models/*.pkl
+*.model
+checkpoints/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Secrets
+*.key
+*.pem
+secrets/
+credentials/
+
+# Reports and results
+results/
+reports/*.pdf
+reports/*.html
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Datasets (DroidBench tiene su propio repo)
+datasets/
+
+# Test files
+test_*.py
