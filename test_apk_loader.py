@@ -1,7 +1,7 @@
 from pathlib import Path
 from src.preprocessing.apk_loader import ApkLoader
 
-#prueba de carga de apks
+#prueba de carga de apks 1.1
 def main():
     dataset_path = Path("datasets/droidbench/datasets/droidbench/DroidBench/apk")
     
