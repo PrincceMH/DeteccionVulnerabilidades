@@ -1,0 +1,24 @@
+{
+  "created_at": "2025-12-04T17:52:40.198804",
+  "config": {
+    "test_size": 0.2,
+    "val_size": 0.1,
+    "random_seed": 42,
+    "max_samples": null
+  },
+  "vocab_size": 101,
+  "num_features": 12,
+  "label_distribution": {
+    "train_vulnerable": 85,
+    "train_benign": 84,
+    "val_vulnerable": 11,
+    "val_benign": 12,
+    "test_vulnerable": 23,
+    "test_benign": 24
+  },
+  "splits": {
+    "train": 169,
+    "val": 23,
+    "test": 47
+  }
+}
