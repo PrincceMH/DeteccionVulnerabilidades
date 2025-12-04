@@ -1,21 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Flow Extractor - Extractor Principal de Flujos
-===============================================
-
-Este módulo implementa el extractor principal que coordina todo el
-proceso de extracción de flujos de un APK.
-
-Patrones utilizados:
-    - Facade Pattern: Simplifica la interfaz para el usuario
-    - Template Method Pattern: Define el algoritmo de extracción
-    - Factory Method Pattern: Crea los objetos necesarios
-
-Este es el punto de entrada principal para el Módulo 2 (Taint Analysis).
-
-Autor: Framework de Detección de Vulnerabilidades Android
-"""
-
 from dataclasses import dataclass, field
 from typing import List, Dict, Optional, Any
 from pathlib import Path
