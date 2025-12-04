@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-12-04T17:29:28.261837",
+  "summary": {
+    "total_apks": 5,
+    "successful": 5,
+    "failed": 0,
+    "total_flows": 38,
+    "total_vulnerabilities": 0,
+    "execution_time_ms": 16271.9
+  },
+  "results": [
+    {
+      "apk": "Merge1.apk",
+      "flows": 18,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 7214.98,
+      "categories": [],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "apk": "ApplicationModeling1.apk",
+      "flows": 0,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 162.52,
+      "categories": [],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "apk": "DirectLeak1.apk",
+      "flows": 7,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 2847.5,
+      "categories": [],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "apk": "InactiveActivity.apk",
+      "flows": 7,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 2969.29,
+      "categories": [],
+      "status": "PASS",
+      "errors": []
+    },
+    {
+      "apk": "Library2.apk",
+      "flows": 6,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 3074.49,
+      "categories": [],
+      "status": "PASS",
+      "errors": []
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "timestamp": "2025-12-04T17:26:57.445733",
+  "summary": {
+    "total_apks": 10,
+    "successful": 0,
+    "failed": 10,
+    "total_flows": 0,
+    "total_vulnerabilities": 0,
+    "execution_time_ms": 0.0
+  },
+  "results": [
+    {
+      "apk": "Merge1.apk",
+      "flows": 0,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 0.0,
+      "categories": [],
+      "status": "FAIL",
+      "errors": [
+        "'FlowExtractor' object has no attribute 'extract_from_apk'"
+      ]
+    },
+    {
+      "apk": "ApplicationModeling1.apk",
+      "flows": 0,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 0.0,
+      "categories": [],
+      "status": "FAIL",
+      "errors": [
+        "'FlowExtractor' object has no attribute 'extract_from_apk'"
+      ]
+    },
+    {
+      "apk": "DirectLeak1.apk",
+      "flows": 0,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 0.0,
+      "categories": [],
+      "status": "FAIL",
+      "errors": [
+        "'FlowExtractor' object has no attribute 'extract_from_apk'"
+      ]
+    },
+    {
+      "apk": "InactiveActivity.apk",
+      "flows": 0,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 0.0,
+      "categories": [],
+      "status": "FAIL",
+      "errors": [
+        "'FlowExtractor' object has no attribute 'extract_from_apk'"
+      ]
+    },
+    {
+      "apk": "Library2.apk",
+      "flows": 0,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 0.0,
+      "categories": [],
+      "status": "FAIL",
+      "errors": [
+        "'FlowExtractor' object has no attribute 'extract_from_apk'"
+      ]
+    },
+    {
+      "apk": "LogNoLeak.apk",
+      "flows": 0,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 0.0,
+      "categories": [],
+      "status": "FAIL",
+      "errors": [
+        "'FlowExtractor' object has no attribute 'extract_from_apk'"
+      ]
+    },
+    {
+      "apk": "Obfuscation1.apk",
+      "flows": 0,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 0.0,
+      "categories": [],
+      "status": "FAIL",
+      "errors": [
+        "'FlowExtractor' object has no attribute 'extract_from_apk'"
+      ]
+    },
+    {
+      "apk": "Parcel1.apk",
+      "flows": 0,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 0.0,
+      "categories": [],
+      "status": "FAIL",
+      "errors": [
+        "'FlowExtractor' object has no attribute 'extract_from_apk'"
+      ]
+    },
+    {
+      "apk": "PrivateDataLeak1.apk",
+      "flows": 0,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 0.0,
+      "categories": [],
+      "status": "FAIL",
+      "errors": [
+        "'FlowExtractor' object has no attribute 'extract_from_apk'"
+      ]
+    },
+    {
+      "apk": "PrivateDataLeak2.apk",
+      "flows": 0,
+      "vulnerabilities": 0,
+      "high_confidence": 0,
+      "time_ms": 0.0,
+      "categories": [],
+      "status": "FAIL",
+      "errors": [
+        "'FlowExtractor' object has no attribute 'extract_from_apk'"
+      ]
+    }
+  ]
+}
