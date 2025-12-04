@@ -1,18 +1,3 @@
-"""
-Script de Entrenamiento - Detector de Vulnerabilidades Android
-==============================================================
-
-Este script entrena el modelo Transformer para clasificar APKs
-como vulnerables o benignos basándose en los flujos de datos extraídos.
-
-Uso:
-    python scripts/train_model.py
-    python scripts/train_model.py --epochs 50 --batch-size 16
-    python scripts/train_model.py --resume checkpoints/best_model.pt
-
-Autor: Tesis - Detección de Vulnerabilidades Android
-"""
-
 import os
 import sys
 import json

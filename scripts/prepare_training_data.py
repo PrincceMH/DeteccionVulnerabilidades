@@ -1,18 +1,8 @@
 """
-Preparacion de Datos para Entrenamiento
-=======================================
-
-Este script prepara el dataset combinado (DroidBench + F-Droid) para
-entrenar el modelo de deteccion de vulnerabilidades.
-
 Genera:
     - Extraccion de features de todos los APKs
     - Division train/validation/test
     - Archivo de datos preparado para entrenamiento
-
-Uso:
-    python scripts/prepare_training_data.py
-    python scripts/prepare_training_data.py --test-size 0.2 --val-size 0.1
 """
 
 import os

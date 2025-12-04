@@ -1,15 +1,3 @@
-"""
-Interfaz Web - Sistema de Deteccion de Vulnerabilidades Android
-================================================================
-
-Interfaz grafica usando Streamlit para analizar APKs de forma interactiva.
-
-Uso:
-    streamlit run app.py
-
-Autor: Tesis - Deteccion de Vulnerabilidades Android
-"""
-
 import os
 import sys
 import tempfile

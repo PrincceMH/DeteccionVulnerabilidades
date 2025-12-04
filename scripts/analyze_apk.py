@@ -1,14 +1,6 @@
 """
-Analizador de APKs - Sistema de Deteccion de Vulnerabilidades Android
-======================================================================
-
-Este script analiza un APK y genera un reporte detallado de seguridad
+genera un reporte detallado de seguridad
 con las vulnerabilidades encontradas y recomendaciones para solucionarlas.
-
-Uso:
-    python scripts/analyze_apk.py ruta/al/archivo.apk
-    python scripts/analyze_apk.py app.apk --output reporte.html
-    python scripts/analyze_apk.py app.apk --format json
 
 """
 

@@ -21,8 +21,6 @@ Extrae 3 tipos de características:
    - Permisos involucrados
    - Nivel de riesgo previo
 
-Autor: Tesis - Detección de Vulnerabilidades Android
-Fecha: Diciembre 2024
 """
 
 from dataclasses import dataclass, field

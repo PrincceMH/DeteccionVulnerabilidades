@@ -13,8 +13,6 @@ El tokenizador convierte:
 
 En una representación numérica que el modelo puede procesar.
 
-Autor: Tesis - Detección de Vulnerabilidades Android
-Fecha: Diciembre 2024
 """
 
 from dataclasses import dataclass, field

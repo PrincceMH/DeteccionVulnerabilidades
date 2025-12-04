@@ -1,25 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Flow Tracker - Rastreador de Flujos de Datos
-=============================================
-
-Este módulo implementa el rastreo de flujos de datos (taint tracking)
-en bytecode DEX de aplicaciones Android.
-
-Patrones utilizados:
-    - Strategy Pattern: Diferentes estrategias de tracking
-    - Observer Pattern: Notificación de flujos encontrados
-    - Builder Pattern: Construcción de objetos TaintFlow
-
-Funcionamiento:
-    1. Analiza el bytecode DEX usando Androguard
-    2. Identifica llamadas a métodos source (datos sensibles)
-    3. Rastrea el flujo de esos datos hasta métodos sink
-    4. Genera objetos TaintFlow con toda la información
-
-Autor: Framework de Detección de Vulnerabilidades Android
-"""
-
 from dataclasses import dataclass, field
 from typing import List, Dict, Optional, Set, Tuple, Any, Callable
 from enum import Enum, auto

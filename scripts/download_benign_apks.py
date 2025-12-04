@@ -1,18 +1,3 @@
-"""
-Script para descargar APKs benignos de F-Droid
-==============================================
-
-F-Droid es un repositorio de aplicaciones Android de codigo abierto.
-Todas las apps son verificadas y consideradas benignas.
-
-Este script descarga un conjunto de APKs para usar como dataset benigno
-en el entrenamiento del modelo de deteccion de vulnerabilidades.
-
-Uso:
-    python scripts/download_benign_apks.py --count 50
-    python scripts/download_benign_apks.py --count 100 --category games
-"""
-
 import os
 import sys
 import json
