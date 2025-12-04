@@ -2,7 +2,7 @@ from pathlib import Path
 from typing import List, Optional
 from dataclasses import dataclass
 
-#extraccion apk
+#extraccion apk 1.1
 @dataclass
 class ApkInfo:
     name: str
